@@ -13,9 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/marcelojacint/api-login-node.js/issues"
   },
-  "homepage": "https://github.com/marcelojacint/api-login-node.js#readme"
+  "homepage": "https://github.com/marcelojacint/api-login-node.js#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
